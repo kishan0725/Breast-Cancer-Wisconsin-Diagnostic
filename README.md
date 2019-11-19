@@ -34,3 +34,7 @@ All feature values are recoded with four significant digits.
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
+
+## Kaggle
+
+Link to my Kaggle Notebook - [Breast Cancer - 5 Classification Algorithms](https://www.kaggle.com/kishan0725/breast-cancer-5-classification-algorithms)
